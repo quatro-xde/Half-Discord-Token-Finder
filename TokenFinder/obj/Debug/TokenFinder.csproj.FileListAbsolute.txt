@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\TokenFinder\TokenFinder\bin\Debug\TokenFinder.exe.config
+C:\Users\sebas\source\repos\TokenFinder\TokenFinder\bin\Debug\TokenFinder.exe
+C:\Users\sebas\source\repos\TokenFinder\TokenFinder\bin\Debug\TokenFinder.pdb
+C:\Users\sebas\source\repos\TokenFinder\TokenFinder\obj\Debug\TokenFinder.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\TokenFinder\TokenFinder\obj\Debug\TokenFinder.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\TokenFinder\TokenFinder\obj\Debug\TokenFinder.exe
+C:\Users\sebas\source\repos\TokenFinder\TokenFinder\obj\Debug\TokenFinder.pdb
